@@ -16,6 +16,9 @@ Plastic, paper, cardboard, glass, metal and organic waste.
 - Raspberry Pi 5 (8 GB)
 - Logitech C270 webcam and microphone
 
+## Software
+https://ecoassist-ai.ai.studio/
+
 ## Technologies
 Python, PyTorch, TorchVision, Librosa and Llama.
 
